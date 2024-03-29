@@ -4,6 +4,6 @@
 <h2>🎲 Currently</h2>
 <ul>
 <li>Working on <a href="https://github.com/dineshzstp/youtubedataharvest">Youtube data harvester</a>.</li>
-<li>Learning about <strong>PySpark</strong>, <strong>Data bricks</strong>, and building a django application with <strong>javacript pipeline</strong>.</li>
+<li>Learning about <strong>Spark in GCP</strong>, <strong>AWS datapipelines</strong>, and building a django application to perform repetitive <strong>ETL</strong>.</li>
 <li>Most of my projects are available on <a href="https://github.com/dineshzstp">Github</a>.</li>
 </ul>
